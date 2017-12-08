@@ -4,5 +4,5 @@
 ##### 详情Api: http://www.kugou.com/yy/index.php?r=play/getdata&hash={xxxx}
 
 #### 酷我音乐
-##### http://search.kuwo.cn/r.s?all=周杰伦&ft=music&itemset=web_2013&client=kt&pn=1&rn=20&rformat=json&encoding=utf8
-##### http://antiserver.kuwo.cn/anti.s?type=convert_url&rid={id}&format=mp3&response=url
+##### 搜索Api: http://search.kuwo.cn/r.s?all=周杰伦&ft=music&itemset=web_2013&client=kt&pn=1&rn=20&rformat=json&encoding=utf8
+##### 详情Api: http://antiserver.kuwo.cn/anti.s?type=convert_url&rid={id}&format=mp3&response=url
